@@ -1,0 +1,8 @@
+node_modules
+yarn-error.log
+yarn.lock
+index.js
+snippet.js
+tools.js
+*.DS_Store
+!src/*.js
